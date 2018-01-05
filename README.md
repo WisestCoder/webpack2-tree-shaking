@@ -2,10 +2,10 @@
 
 # use
 
-mutli-file entry run
+run without uglify
 
     npm run build
     
-multiple configuration run
+run with uglify
 
     npm run build2
