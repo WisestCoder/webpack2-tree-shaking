@@ -1,6 +1,8 @@
-# webpack-tree-shaking-demo
+## webpack-tree-shaking-demo
 
-# use
+[点击查看文档](https://github.com/dushao103500/blog/blob/master/webpack/treeShaking.md)
+
+### use
 
 run without uglify
 
